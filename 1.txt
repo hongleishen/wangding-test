@@ -6,3 +6,4 @@ use commit -a
 2
 YY is a dog
 today is 6.23
+jun
