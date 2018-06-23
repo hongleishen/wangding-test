@@ -5,3 +5,4 @@ use commit -a
 1
 2
 YY is a dog
+today is 6.23
