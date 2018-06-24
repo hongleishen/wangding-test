@@ -1,5 +1,5 @@
 shl
-hello git
+it
 good bye!
 use commit -a
 1
