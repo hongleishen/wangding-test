@@ -4,6 +4,9 @@ good bye!
 use commit -a
 1
 2
-YY is a dog
+
+YY is a dog also she is a girl
 today is 6.23
 jun
+=======
+>>>>>>> parent of bb5a158... add YY mesage
